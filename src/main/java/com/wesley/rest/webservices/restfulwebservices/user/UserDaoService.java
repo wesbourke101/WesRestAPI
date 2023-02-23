@@ -11,7 +11,7 @@ import java.util.List;
 
 
 @Component
-public class userDaoService {
+public class UserDaoService {
     //JPA/Hibernate > Database
     //User/DaoService > Static List
 

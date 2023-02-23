@@ -2,6 +2,8 @@ package com.wesley.rest.webservices.restfulwebservices.user;
 
 import java.time.LocalDate;
 
+//This is somewhat Model for the scheme.
+
 public class User {
     private Integer id;
     private String name;
